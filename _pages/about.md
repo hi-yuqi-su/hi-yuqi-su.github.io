@@ -9,20 +9,20 @@ redirect_from:
 
 I am **Yuqi Su (苏玉琪)**, a Ph.D. student in the [Institute of Software, Chinese Academy of Sciences (ISCAS)](https://english.iscas.ac.cn/), advised by Prof. [Fusang Zhang](https://scholar.google.hk/citations?user=qBQOXTwAAAAJ&hl=en&authuser=1&oi=ao).
 
-My research centers on **wireless and acoustic sensing**, spanning in-cabin acoustic sensing for the smart car, contactless physiological monitoring, and integrated sensing & communication (ISAC). Beyond theory, I care deeply about real-world deployment - my work has been jointly applied with **Xiaomi** and **Geely** to build novel smart-cabin sensing systems.
+My research centers on **wireless and acoustic sensing**, spanning in-cabin acoustic sensing for the smart car, contactless physiological monitoring, and integrated sensing & communication (ISAC). Beyond theory, I care deeply about real-world deployment.
 
 
 News
 ======
-- **Oct 2025** - Awarded the **2nd Prize** (100,000 RMB) at the Global Wireless Sensing Challenge, co-located with MobiCom 2025.
+- **Oct 2025** - Awarded the **2nd Prize** (25,000 dollars) at the Global Wireless Sensing Challenge, @ MobiCom 2025.
 - **Aug 2025** - Serving on the TPC of IEEE ICPADS 2025.
-- **Nov 2024** - Awarded the **First Prize** (Top 5) at the Pan-Intelligent Sensing Technology Innovation Application Competition.
+- **Nov 2024** - Awarded the **First Prize** (Top 5) at the Wireless Sensing Technology Innovation Application Competition.
 - **Sep 2022** - Awarded the **First Prize** at the IPIN 2022 International Competition on Indoor Positioning and Indoor Navigation.
 
 
 Research Interests
 ======
-- **Acoustic sensing & array signal processing** - sparse-array phase-ambiguity resolution, multi-frequency virtual microphone arrays, and near-field beamforming for high-accuracy localization.
+- **Acoustic sensing & signal processing** - sparse-array phase-ambiguity resolution, multi-frequency virtual microphone arrays, and near-field beamforming for high-accuracy localization.
 - **Smart-cabin sensing** - child presence detection, multi-target respiration sensing, driver-behavior monitoring, gesture interaction, and acoustic digital car keys.
 - **Contactless health monitoring** - extracting subtle vital signs (e.g., respiration) even under occlusion.
 - **Integrated sensing & communication** - waveform design and communication-sensing performance trade-off analysis.
@@ -37,4 +37,5 @@ Selected Publications
 5. M. Fan, **Y. Su**, F. Zhang, *et al.* "Wave-to-Mute: In-Cabin Single Gesture Mute Control via Acoustic Sensing." - *EAI MobiQuitous 2025 (CCF-C)*.
 6. Z. He, F. Zhang, J. Ma, **Y. Su**, *et al.* "Multi-Antenna Quantum Receiver: A Leap Beyond Angle Estimation Constraints." - *ACM MobiCom 2025 (CCF-A)*.
 
-See the full list with details on the [Publications](/publications/) page, or view my [CV](/cv/).
+<!-- See the full list with details on the [Publications](/publications/) page, or view my [CV](/cv/). -->
+See the full list with details on the [Publications](/publications/) page.
