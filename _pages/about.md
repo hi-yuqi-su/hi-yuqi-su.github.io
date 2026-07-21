@@ -28,14 +28,20 @@ Research Interests
 - **Integrated sensing & communication** - waveform design and communication-sensing performance trade-off analysis.
 
 
-Selected Publications
-======
-1. **Y. Su**, F. Zhang, P. Sang, *et al.* "Towards an Acoustic Keyless Entry System: Leveraging Off-the-Shelf Wideband Ultrasound for Cost-Effective Approach Detection." - *ACM UbiComp 2026 (CCF-A)*.
-2. **Y. Su**, F. Zhang, B. Jin, *et al.* "Manipulation of Acoustic Focusing for Multi-target Sensing with Distributed Microphones in Smart Car Cabin." - *ACM UbiComp 2025 (CCF-A)*.
-3. **Y. Su**, F. Zhang, K. Niu, *et al.* "Embracing Distributed Acoustic Sensing in Car Cabin for Children Presence Detection." - *ACM UbiComp 2024 (CCF-A)*.
-4. **Y. Su**, F. Zhang, B. Jin, *et al.* "Towards Waveform Design for Underwater Acoustic Integrated Sensing and Communication: A Review." - *WASA 2026 (CCF-C)*.
-5. M. Fan, **Y. Su**, F. Zhang, *et al.* "Wave-to-Mute: In-Cabin Single Gesture Mute Control via Acoustic Sensing." - *EAI MobiQuitous 2025 (CCF-C)*.
-6. Z. He, F. Zhang, J. Ma, **Y. Su**, *et al.* "Multi-Antenna Quantum Receiver: A Leap Beyond Angle Estimation Constraints." - *ACM MobiCom 2025 (CCF-A)*.
+  Selected Publications
+  ======
+  1. **Yuqi Su**, Fusang Zhang, Peng Sang, *et al.* "Towards an Acoustic Keyless Entry System: Leveraging Off-the-Shelf
+  Wideband Ultrasound for Cost-Effective Approach Detection." - *ACM UbiComp 2026 (CCF-A)*.
+  2. **Yuqi Su**, Fusang Zhang, Beihong Jin, *et al.* "Manipulation of Acoustic Focusing for Multi-target Sensing with
+  Distributed Microphones in Smart Car Cabin." - *ACM UbiComp 2025 (CCF-A)*.
+  3. **Yuqi Su**, Fusang Zhang, Kai Niu, *et al.* "Embracing Distributed Acoustic Sensing in Car Cabin for Children
+  Presence Detection." - *ACM UbiComp 2024 (CCF-A)*.
+  4. **Yuqi Su**, Fusang Zhang, Beihong Jin, *et al.* "Towards Waveform Design for Underwater Acoustic Integrated
+  Sensing and Communication: A Review." - *WASA 2026 (CCF-C)*.
+  5. Mengyao Fan, **Yuqi Su**, Fusang Zhang, *et al.* "Wave-to-Mute: In-Cabin Single Gesture Mute Control via Acoustic
+  Sensing." - *EAI MobiQuitous 2025 (CCF-C)*.
+  6. Zhaodian He, Fusang Zhang, Junqi Ma, **Yuqi Su**, *et al.* "Multi-Antenna Quantum Receiver: A Leap Beyond Angle
+  Estimation Constraints." - *ACM MobiCom 2025 (CCF-A)*.
 
 <!-- See the full list with details on the [Publications](/publications/) page, or view my [CV](/cv/). -->
 See the full list with details on the [Publications](/publications/) page.
