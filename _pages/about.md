@@ -9,7 +9,7 @@ redirect_from:
 
 I am **Yuqi Su (苏玉琪)**, a Ph.D. student in the [Institute of Software, Chinese Academy of Sciences (ISCAS)](https://english.iscas.ac.cn/), advised by Prof. [Fusang Zhang](https://scholar.google.hk/citations?user=qBQOXTwAAAAJ&hl=en&authuser=1&oi=ao).
 
-My research centers on **wireless and acoustic sensing**, spanning in-cabin acoustic sensing for the smart car, contactless physiological monitoring, and integrated sensing & communication (ISAC). Beyond theory, I care deeply about real-world deployment.
+My research centers on **wireless sensing and acoustic sensing**, spanning in-cabin acoustic sensing for the smart car, contactless physiological monitoring, and integrated sensing & communication (ISAC). Beyond theory, I care deeply about real-world deployment.
 
 
 News
